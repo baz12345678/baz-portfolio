@@ -87,14 +87,14 @@ export const workData = [
         title: 'Online Doctors Appointment App',
         description: 'Web Design, React App',
         bgImage: '/work-2.png',
-        link:'/ubiquitous-stroopwafel-594024.netlify.app',
+        link:'/doctor123.netlify.app',
 
     },
     {
         title: 'Real State',
         description: 'Web Design, React App',
         bgImage: '/work-3.png',
-        link:'/stellular-cactus-72302e.netlify.app',
+        link:'/baz-realstore.netlify.app',
     },
   
 ]
