@@ -35,9 +35,14 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import bazil from './BAZIL JUNAIDI.png'
+import bazil1 from './BAZIL JUNAIDI1.png'
+
 
 export const assets = {
     user_image,
+    bazil,
+    bazil1,
     code_icon,
     code_icon_dark,
     edu_icon,
@@ -87,14 +92,15 @@ export const workData = [
         title: 'Online Doctors Appointment App',
         description: 'Web Design, React App',
         bgImage: '/work-2.png',
-        link:'/ubiquitous-stroopwafel-594024.netlify.app',
+        link:'/doctor123.netlify.app',
 
     },
     {
         title: 'Real State',
         description: 'Web Design, React App',
         bgImage: '/work-3.png',
-        link:'/stellular-cactus-72302e.netlify.app',
+        link:'/baz-realst',
+        
     },
   
 ]
