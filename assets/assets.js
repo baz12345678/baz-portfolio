@@ -99,8 +99,12 @@ export const workData = [
         title: 'Real State',
         description: 'Web Design, React App',
         bgImage: '/work-3.png',
+<<<<<<< HEAD
         link:'/baz-realst',
         
+=======
+        link:'/baz-realstore.netlify.app',
+>>>>>>> 29b06b04a746d120e2f202e3dfb06aa874dc3126
     },
   
 ]
